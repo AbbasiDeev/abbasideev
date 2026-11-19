@@ -1,3 +1,1 @@
-<a href="https://abbasideev.netlify.app" title="abbasideev.netlify.app">
-  <img src="https://github.com/user-attachments/assets/4459ec64-f19f-4e27-b118-2c1954237348" alt="abbasideev.netlify.app">
-</a>
+<img alt="Abbasi Deev Logo" src="https://github.com/user-attachments/assets/dfe4b8a9-1341-4165-8f31-de1a9b8e67c4" />
